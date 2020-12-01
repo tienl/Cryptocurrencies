@@ -31,7 +31,7 @@ By using a 3d scatter plot we visualized the classifictions of the cryptocurrenc
 ![3dscat](Resources/3dscatter.png)
 Putting our data together in a table.  By sorting on Class column we get a sense of cluster sizes. Majority of the cryptocurrencies are in Class 0 and 1, with only BitTorrent in Class 4.  
 ![table](Resources/table.png)
-If we plot on 2d scatter, we can see there are some extreme outliers if compared for TotalCoinSupply vs TotalCoinsMined.
+If we plot on 2d scatter, we can see there are some extreme outliers if compared for TotalCoinSupply vs TotalCoinsMined.  (The dots may be a bit hard to see as they are not adjusted visually yet)
 ![scatterall](Resources/scatterall.png)
 If we limit our axis and avoid the extreme outliers, we have the final plot.
 ![scatterlim](Resources/scatterlim.png)
